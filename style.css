@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(43, 39, 39) ; 
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2, h1 {
+    padding-top: 3%;
+    display: flex;
+    justify-content: center;
+}
+
+.game   {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    align-items: center;
+}
+
+#but {
+   height: 25px;
+   border-radius: 15px;
+   background-color: lightblue;
+   border: 1px solid rgb(60, 155, 187);
+   cursor: pointer;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    
+}
+
+
+.nashe  {
+   display: flex;
+   height: 200px;
+   width: 200px;
+   justify-content: center;
+   padding-left: 44%;
+   
+}
+
+.text {
+    display:flex;
+    justify-content: center;
+}
+
+#display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 33px;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    justify-items: center;
+}
+
+#wtl {
+    padding-bottom: 25%;
+}
+
+
+#scores {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    font-size: 33px;
+}
+
+
