@@ -10,7 +10,7 @@ let score2 = document.querySelector("#score2")
 let cs = 0;
 let ps = 0;
 
-//puedo hacer un ++ para q el valor se sume +1 xddd justo se me ocurrio, capaz funciona. (si es asi, denada mariano del futuro(?)
+//puedo hacer un ++ para q el valor se sume +1 xddd justo se me ocurrio, capaz funciona. (si es asi, denada mariano del futuro(?))
 
  // const computerSelection = getComputerChoice(items); // dentro de los parentesis, selecciono la variable de donde quiero q salgan los valores. Si elijo la variable "otros", los valores seleccionados deberian ser "perro", "ametralladora" y "pito".
 
